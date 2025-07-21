@@ -1,7 +1,8 @@
 {
-  "label": "Consejos - Motivaciones",
+  "label": "motivacion",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Bienvenido al reglamento del equipo. Aquí encontrarás las reglas básicas que seguimos para mantener un ambiente de trabajo respetuoso, ordenado y enfocado en el aprendizaje. Estas normas nos ayudan a organizarnos mejor, ser más autónomos y trabajar de manera eficiente todos los días."
   }
 }

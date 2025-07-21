@@ -102,6 +102,12 @@ favicon: 'img/page_icon.png',// top page icon
             position: 'left',
             label: 'Reglas',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'extra',
+            position: 'left',
+            label: 'Motivacion',
+          },
           
          
         ],
@@ -117,8 +123,8 @@ favicon: 'img/page_icon.png',// top page icon
                 to: '/docs/python',
               },
              {
-              label: 'Html - Css',
-              to: '/docs/html-and-css',
+              label: 'Html-Css',
+              to: '/docs/html',
             },
               {
                 label: 'JavaScript',
@@ -146,10 +152,7 @@ favicon: 'img/page_icon.png',// top page icon
                 label: 'GitHub',
                 href: 'https://github.com/No-Learn-Van-Rossum',
               },
-              {
-                  label:'Consejos y Motivaciones',
-                  to: '/docs/tutorial-extra'
-                },
+             
 
             ],
           },

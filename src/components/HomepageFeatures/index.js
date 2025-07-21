@@ -29,7 +29,7 @@ const FeatureList = [
         ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
-    link:"/html-and-css"
+    link:"/html"
   },
   {
     title: 'JavaScript',
