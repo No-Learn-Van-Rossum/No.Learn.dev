@@ -3,7 +3,7 @@
 **No.Learn** es una plataforma de documentación abierta dedicada a proporcionar fundamentos teóricos y prácticos sobre lenguajes de programación y tecnología. Está pensada como un recurso gratuito y accesible para estudiantes, autodidactas y cualquier persona con deseo de aprender programación desde sus bases.
 
  **Deploy:** [https://nolearn-dev.web.app](https://nolearn-dev.web.app)  
- **Repositorio GitHub:** [Organización](https://github.com/tu-organizacion)
+ **Repositorio GitHub:** [Organización](https://github.com/No-Learn-Van-Rossum)
 
 ---
 
