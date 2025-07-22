@@ -11,7 +11,6 @@
 
 En **No.Learn** creemos que el aprendizaje no debe ser una barrera. Por eso, construimos una guía estructurada, motivacional y con contenido de calidad para que todos los estudiantes tengan igualdad de acceso a información técnica confiable, clara y bien organizada.
 
-> “True greatness isn't about being smarter, but about helping those who feel stuck.”
 
 ---
 
@@ -40,7 +39,7 @@ El sitio está dividido en secciones que cubren los lenguajes y tecnologías fun
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-organizacion/nolearn-docs.git
+git clone https://github.com/No-Learn-Van-Rossum/No.Learn.dev.git
 cd nolearn-docs
 
 # Instala las dependencias
