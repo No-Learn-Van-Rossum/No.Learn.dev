@@ -74,7 +74,7 @@ Utiliza la siguiente convención para nombrar tus ramas según el tipo de cambio
 
 ### 1. Clona el repositorio
 
-```bash
+``` bash
 git clone https://github.com/tu-organizacion/nolearn-docs.git
 cd nolearn-docs
 
@@ -97,8 +97,7 @@ git checkout -b feat/database-funciones
 Luego de tener los cambios realizados
 
 ### 4. Guarda y confirma tus cambios
-```
-bash 
+``` bash
 git add .
 git commit -m "feat: añadir sección sobre funciones en Python"
 ```
